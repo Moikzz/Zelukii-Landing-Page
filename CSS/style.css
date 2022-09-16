@@ -1,0 +1,13 @@
+body{
+    background-image: url(/SRC/background.png);
+}
+
+.cor-zelukii{
+ background-color: #a500ad;   
+}
+
+.separador{
+    background-color: #a500ad;   
+    height: 5%;
+    width: 100%;
+}
